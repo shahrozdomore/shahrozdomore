@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning TailwindCSS, Firebase, Jekyll etc.
 - 📫 How to reach me shahrozdomore@gmail.com
 
+[Have look at my Sample Work](https://shahrozdomore.gitHub.com)
+
 <!---
 shahrozdomore/shahrozdomore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
